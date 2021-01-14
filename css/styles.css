@@ -1,0 +1,26 @@
+
+
+/*  css default values:
+  https://www.w3schools.com/cssref/css_default_values.asp */
+/* color number: https://colorhunt.co/palettes/trendy
+                https://developer.mozilla.org/en-US/docs/Web/CSS/color_value
+ */
+  body{
+    background-color: #f9f7f7;
+  }
+  /* border-style:
+  https://developer.mozilla.org/en-US/docs/Web/CSS/border-style */
+  hr{
+    border-style: none;
+    border-top: 6px lightgrey dotted ;
+    width: 10%;
+  }
+
+  h1{
+    color: #61c0bf;
+  }
+  h3{
+    color: #61c0bf;
+    font-family: "monaco",monospace;
+
+  }
